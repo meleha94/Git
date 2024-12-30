@@ -1,4 +1,7 @@
 This is the file that i added from GitHub.com to stimulate my co-worker pushed this changes to this repo so i can pull down the code he has added.
 
 
-This is my "Co-Worker " adding changes to the file as well 
+This is my "Co-Worker " adding changes to the file as well
+
+
+Added some changes to the commit from local
